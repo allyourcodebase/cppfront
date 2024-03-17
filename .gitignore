@@ -36,3 +36,6 @@ venv/*
 
 # VSCode workspace directory
 .vscode/
+
+zig-out/
+zig-cache/
